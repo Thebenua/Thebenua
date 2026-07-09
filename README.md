@@ -34,9 +34,9 @@
 
 ### 📊 Аналитика профиля (Profile Metrics)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thebenua&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" alt="Top Languages" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Thebenua&theme=tokyonight&hide_border=true&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Thebenua&layout=compact&theme=tokyonight&hide_border=true&langs_count=4)
 
 ----
 
