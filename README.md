@@ -32,6 +32,14 @@
 
 ---
 
+### 📫 Контакты (Get in Touch)
+
+* **Telegram:** [@Thebenua](https://t.me/Thebenua)
+* **Web-Portfolio:** [thebenua.online](https://thebenua.online)
+
+
+----
+
 ### 📊 Аналитика профиля (Profile Metrics)
 
 <p align="left">
@@ -42,10 +50,3 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Thebenua&label=Profile+Views&color=0052cc&style=flat-square" alt="Просмотры" />
 </p>
-
-----
-
-### 📫 Контакты (Get in Touch)
-
-* **Telegram:** [@Thebenua](https://t.me/Thebenua)
-* **Web-Portfolio:** [thebenua.online](https://thebenua.online)
