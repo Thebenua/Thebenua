@@ -40,13 +40,6 @@
 
 ----
 
-### 📊 Аналитика профиля (Profile Metrics)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thebenua&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thebenua&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" alt="Top Languages" height="150" />
-</p>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Thebenua&label=Profile+Views&color=0052cc&style=flat-square" alt="Просмотры" />
 </p>
