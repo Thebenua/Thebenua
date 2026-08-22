@@ -1,45 +1,56 @@
-# benua | Full-Stack & AI Systems Engineer
+# Artem Benua | AI & Backend Engineering ⚡
 
-Проектирую высокопроизводительные веб-приложения, внедряю автономные ИИ-системы и перевожу комплексные бизнес-требования в чистый, отказоустойчивый код.
-
----
-
-### 🛠️ Стек технологий (Tech Stack)
-
-#### Frontend & UI Engineering
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Backend & AI Orchestration
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-#### Databases & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+Aspiring AI Systems Engineer focused on Python, backend infrastructure, and autonomous LLM integrations. Committed to consistent daily shipping, clean architecture, and rigorous problem-solving.
 
 ---
 
-### 🚀 Ключевые компетенции (Core Competencies)
+### 🎯 Current Focus & Active Learning Roadmap
 
-* **Premium Web Apps:** Разработка адаптивных интерфейсов (Next.js/TypeScript) премиум-уровня со сложными визуальными эффектами (Glassmorphism, micro-interactions). Настройка глубокой сквозной веб-аналитики.
-* **AI Integration & Automation:** Проектирование и деплой автономных ИИ-агентов, тонкая настройка контекста (Prompt Engineering), интеграция LLM-моделей (OpenAI API) в бизнес-логику сайтов и CRM.
-* **High-Load Backend:** Создание стабильной серверной архитектуры, интеграция реляционных БД и кэширования. Полная контейнеризация приложений (Docker) для бесшовного развёртывания.
+* **Core Foundations:** Python (OOP, Asyncio, typing), Data Structures & Algorithms.
+* **Backend Systems:** FastAPI, PostgreSQL, Redis, Docker containerization.
+* **AI Orchestration:** Gemini API, OpenAI API, Prompt Engineering, LangChain, RAG pipelines.
+* **Automation & Bots:** Asynchronous Telegram bots (aiogram), automated scrapers, and workflow tools.
 
 ---
 
-### 📫 Контакты (Get in Touch)
+### 🛠️ Tech Stack & Engineering Roadmap
 
-* **Telegram:** [@Thebenua](https://t.me/Thebenua)
-* **Web-Portfolio:** [thebenua.online](https://thebenua.online)
+#### Core & Backend
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
 
+#### AI & LLM Orchestration
+[![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com)
+[![Google Gemini](https://img.shields.io/badge/Google_Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com)
 
-----
+#### DevOps & Tools
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org)
+[![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logoColor=white)](https://cursor.com)
+
+---
+
+### 📈 GitHub Metrics & Activity
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Thebenua&label=Profile+Views&color=0052cc&style=flat-square" alt="Просмотры" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thebenua&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Artem's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thebenua&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect & Channels
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artembenua)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Thebenua)
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Thebenua&label=Profile+Views&color=0052cc&style=flat-square" alt="Profile Views" />
 </p>
