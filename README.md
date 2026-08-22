@@ -34,16 +34,6 @@ Aspiring AI Systems Engineer focused on Python, backend infrastructure, and auto
 
 ---
 
-### 📈 GitHub Metrics & Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thebenua&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Artem's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thebenua&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🌐 Connect & Channels
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artembenua)
