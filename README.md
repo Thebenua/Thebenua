@@ -1,45 +1,46 @@
-# Artem Benua | AI & Backend Engineering ⚡
+# Artem Benua | Building useful digital products ⚡
 
-Aspiring AI Systems Engineer focused on Python, backend infrastructure, and autonomous LLM integrations. Committed to consistent daily shipping, clean architecture, and rigorous problem-solving.
+I'm Artem, a developer exploring how software and AI can make everyday tasks simpler. I build Telegram bots and websites, and I'm growing my skills in Python, backend development, and AI-powered tools.
 
----
-
-### 🎯 Current Focus & Active Learning Roadmap
-
-* **Core Foundations:** Python (OOP, Asyncio, typing), Data Structures & Algorithms.
-* **Backend Systems:** FastAPI, PostgreSQL, Redis, Docker containerization.
-* **AI Orchestration:** Gemini API, OpenAI API, Prompt Engineering, LangChain, RAG pipelines.
-* **Automation & Bots:** Asynchronous Telegram bots (aiogram), automated scrapers, and workflow tools.
+GitHub is where I share projects, document what I learn, and collaborate on ideas that can become useful products.
 
 ---
 
-### 🛠️ Tech Stack & Engineering Roadmap
+### 🎯 What I'm working toward
 
-#### Core & Backend
+* **Telegram bots & automation** — practical bots, clear user flows, and tools that make repetitive work easier.
+* **Websites & digital products** — building useful interfaces and bringing ideas to life on the web.
+* **Browser extensions** — exploring small tools that solve everyday problems.
+* **AI & backend development** — learning to connect applications, APIs, and language models into useful systems.
+
+---
+
+### 🚀 Selected projects
+
+* [**Telegram Bot Template**](https://github.com/Thebenua/aiogram3-bot-template) — a Python and aiogram starting point for Telegram bots.
+* [**THEBENUA Shop Bot**](https://github.com/Thebenua/thebenua-bot) — a Telegram bot for selling digital products.
+* [**Website Portfolio**](https://github.com/Thebenua/portfolio-site) — a collection of web projects, including a website for a psychologist.
+
+---
+
+### 🛠️ Tools & learning
+
+Working with **Python**, **aiogram**, **HTML**, **CSS**, and **Git**. Exploring backend development, Docker, databases, and AI integrations as I build.
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
-
-#### AI & LLM Orchestration
-[![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com)
-[![Google Gemini](https://img.shields.io/badge/Google_Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com)
-
-#### DevOps & Tools
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://aiogram.dev)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org)
-[![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logoColor=white)](https://cursor.com)
 
 ---
 
-### 🌐 Connect & Channels
+### 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artembenua)
+I'm interested in collaborating on practical projects and learning from the open-source community.
+
+[![Website](https://img.shields.io/badge/Website-1B252D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thebenua.online/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Thebenua)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artembenua)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Thebenua&label=Profile+Views&color=0052cc&style=flat-square" alt="Profile Views" />
